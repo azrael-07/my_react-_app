@@ -1,0 +1,101 @@
+.profile-wrap {
+  display: flex;
+  flex-grow: 1;
+  justify-content: center;
+  align-self: center;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400;
+  font-size: 1.5rem;
+  justify-content: space-evenly;
+  .home,
+  .profile-container{
+      @include pad-left(.5em);
+      align-self: center;
+  }
+}
+.link-home{
+  align-self:center;
+}
+.profile-info{
+    position: absolute;
+    top:4rem;
+    background: goldenrod;
+    @include padding-topbottom-leftright(1em,2em);
+    font-size: 1em;
+    border-radius: 10px;
+
+    font-family: 'Roboto ', sans-serif;
+    @include fontWeight(600);
+    li{
+        list-style-type: none;
+    }
+    ul{
+        padding-left: 0;
+    }
+ 
+   
+    cursor: pointer;
+    
+    
+}
+.profile-info.active {
+  visibility:visible;
+}
+
+.profile-image-info{
+        display: flex;
+        cursor: pointer;
+}
+
+.hamburgerContainer{
+  align-self: center;
+  position: relative;
+  cursor: pointer;
+  z-index: 101;
+  height: 2em;
+  width:2em;
+  display: none;
+  align-items: center;
+ 
+
+
+}
+.hamburger{
+width:1.5em;
+height:2px;
+background-color: white;
+position: relative;
+transition: 0.4s;
+&::after,&::before{
+  content: "";
+  position: absolute;
+  width:1.5em;
+height:2px;
+background-color: white;
+transition: 0.4s;
+  
+}
+&::after{
+  bottom:-10px;
+}
+&::before{
+  top:-10px;
+}
+
+}
+.hamburgerContainer.active .hamburger {
+  background-color: transparent;
+}
+
+.hamburgerContainer.active .hamburger::before {
+  transform-origin: top left;
+  transform: rotate(46deg);
+  top: -7px;
+  right: -1px;
+}
+
+.hamburgerContainer.active .hamburger::after {
+  transform-origin: top left;
+  transform: rotate(310deg);
+  top: 11px;
+}

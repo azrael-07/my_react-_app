@@ -1,0 +1,130 @@
+
+.carousel-wrap{
+    margin-left: 12em;
+    font-family: "Cairo", sans-serif;
+    margin-right:1em ;
+}
+.details-indepth{
+    border: 1px rgb(170, 165, 165) solid;
+
+    ul{
+        li{
+            display: flex;
+            justify-self: baseline;
+       
+            flex-wrap: wrap;
+
+        }
+    }
+       flex-grow: 1;
+       background-color: white;
+     
+    
+   
+    .comparision{
+        display: flex;
+        flex-direction: column;
+        li{
+        
+        
+        justify-self: center;
+      
+        height: 3em;
+        display: flex;
+    justify-content: center;
+        
+       padding: 1em 0;
+       padding-top: 2.5em;
+        
+        
+        }
+        img{
+         width: 8em;
+            height: 7em;
+          
+            
+        }
+        .detail-image{
+        
+          height: 7em;
+         
+
+     
+        }
+        .text{
+            position: relative;
+            top: 3.5em;
+            display: flex;
+            align-self: center;
+            justify-content: center;
+        }
+        
+
+    }
+   
+
+}
+.plusIcon{
+    font-size: 1.5em;
+    vertical-align: bottom;
+    padding-left: .5em;
+
+}
+.div{
+    border: 1px solid rgb(212, 203, 203);
+}
+.wrap-compare{
+    background-color: rgb(248, 247, 247);
+}
+.head-back{
+    display: flex;
+    align-items: center;
+    height: 6em;
+}
+.compare-title{
+    text-align: center;
+    flex-grow: 2;
+  
+    font-size: 3em;
+    font-weight: bold;
+   
+}
+.back-button{
+    border: none;
+ 
+  padding: 1em 2em;
+  background: rgb(245, 241, 241);
+  margin-left: 1em;
+  box-shadow: 5px 5px 5px rgb(197, 192, 192) ;
+}
+.head-back,
+.compare-info-wrap,
+.compare-count{
+    font-family: "Cairo", sans-serif;
+
+}
+.compare-count{
+    text-align: center;
+    padding-bottom: 1em ;
+  padding-left: 7em;
+  
+    color: rgb(43, 42, 42);
+   
+    .count{
+        color: rgb(165, 29, 20);
+        position: relative;
+        left: 0;
+        font-size: 1.5em;
+        font-weight: bold;
+    }
+}
+.static-table{
+    position: absolute;
+    width: 10em;
+    left: 1em;
+    font-family: "Cairo", sans-serif;
+    border: none;
+    border-radius: 5px;
+
+   
+}

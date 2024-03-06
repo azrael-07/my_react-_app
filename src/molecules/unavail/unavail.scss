@@ -1,0 +1,58 @@
+.unavail{
+    position: fixed;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.775);
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    left: 0;
+    font-family: 'Cairo', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    .close{
+        color: white;
+        align-self: flex-end;
+       
+        justify-self: flex-start;
+        i{
+            font-size: 1.5em;
+        }
+
+    }
+    .regret-wrap{
+        display: flex;
+        color: white;
+        .logo i{
+            font-size: 5em;
+        }
+        .regret{
+            .regTitle{
+                font-size: 3em;
+
+            }
+            .regret-info{
+                font-size: 2em;
+            }    
+        }
+
+    }
+    .mail-wrap{
+        color: white;
+        display: flex;
+        flex-direction:column ;
+       align-content: center;
+       .mail-wrap{
+           flex-grow: 1;
+           font-size: 1em;
+       }
+      .mail{
+          flex-grow: 1;
+          color: black;
+          background-color: white;
+          flex-basis: 50%;
+      }
+    }
+ 
+
+}

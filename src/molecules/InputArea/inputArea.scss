@@ -1,0 +1,47 @@
+
+.input-area-wrap {
+    display: flex;
+    align-content: center;
+    align-items: center;
+    flex-grow: 2;
+    justify-content: center;
+    
+    input{
+        width: 30em;
+        @include padding-topbottom-leftright(1em, 0);
+        border-radius: 10px 10px 10px 10px;
+        background-color: rgba(94, 86, 86, 0.645);
+        border: none;
+    
+
+    }
+    input::placeholder {
+        font-style: italic;
+        font-size: 1em;
+        color: mintcream;
+        font-family: 'Alegreya SC', sans-serif;
+        padding: 10px;
+      }
+      input:focus::placeholder {
+        color: transparent;
+      }
+      input:focus {
+        color: white;
+        font-family: 'Alegreya SC', sans-serif;
+        padding: 10px;
+      
+      
+      }
+   
+}
+.logo{
+    flex-grow: 1;
+    align-self: center;
+    font-size: 3em;
+    font-family: 'Roboto ', sans-serif;
+    font-weight: 800;
+    color:#E94F64;
+    z-index: 101;
+}
+
+

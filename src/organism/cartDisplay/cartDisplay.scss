@@ -1,0 +1,68 @@
+.cart-item-info{
+    background-color: #fee2f8;
+    background-image: linear-gradient(315deg, #fee2f8 0%, #dcf8ef 74%);
+  padding: 1em;
+  margin-top: 5em;
+
+
+}
+.cart-container{
+    display: flex;
+border: 1px solid rgb(190, 180, 180);
+background-color: white;
+flex-wrap: wrap;
+
+margin: 2em;
+height: auto;
+    .image-cart{
+        width: 14em;
+        height: 14em;
+        img{
+            margin-top: 1em;
+            margin-left: 1em;
+            width: 13em;
+        height: 12em;
+        box-shadow: 0px 5px 15px black;
+        border-radius: 10px;
+
+        }
+
+    }
+    .price-info{
+        margin-left: 1em;
+        flex-grow: 1;
+        align-self: center;
+        font-family: "Cairo", sans-serif;
+        .brand-mobile-info{
+
+            font-family: 'Alegreya SC', sans-serif;
+            font-size: 2em;
+            font-weight: bold;
+        }
+        .cart-price{
+            padding: 1em 3em;
+            font-size: 1.5em;
+            
+           
+
+        }
+        .inc-dec{
+            display: flex;
+            width: 5em;
+           padding: 1em;
+           border: 1px solid rgb(196, 184, 184);
+           padding:.5em 1em;
+           margin:0 4em;
+            .inc{
+                font-size: 2em;
+            }
+            .dec{
+                font-size: 2em;
+            }
+            .count{
+                font-size: 2em;                
+            }
+
+        }
+    }
+}

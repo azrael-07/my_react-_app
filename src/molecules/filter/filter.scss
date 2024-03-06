@@ -1,0 +1,21 @@
+.filter-wrap {
+  display: flex;
+  justify-content: space-evenly;
+  font-family: 'Alegreya SC', sans-serif;
+  h2 {
+    font-size: 1.5em;
+  }
+  .filter-dash{
+    margin-left: 15%;
+  }
+  font-size: 20px;
+}
+
+.checkbox-wrap {
+  margin-top: 0.4em;
+}
+.checkbox {
+  margin-top: 0.4em;
+  flex-basis: 50%;
+}
+

@@ -1,0 +1,522 @@
+    [
+        {
+            "id": "1",
+            "brand": "apple",
+            "model": "iphone13",
+            "available": true,
+            "actual": 70000,
+            "price": 70000,
+            "image": "Image/iphone13.jfif",
+            "color": "Blue",
+            "rating": "5",
+            "bank": "HDFC 5000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/iphone13.jfif",
+                "Image/iphone132.jfif",
+                "Image/iphone133.png"
+            ],
+           "processor":"A15- Bionic",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"14mp WideAngle+14mp Potrait" ,
+            "battery":"5340 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" quared Core Dolby"
+        },
+        {
+            "id": "2",
+            "brand": "apple",
+            "model": "iphone12",
+            "available": true,
+            "rating": "5",
+            "actual": 60000,
+            "price": 55000,
+            "image": "Image/iphone12max.jfif",
+            "color": "White",
+            "bank": "HDFC 5000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/iphone12max.jfif",
+                "Image/iphone12max1.jfif",
+                "Image/iphone12max2.jfif"
+            ],
+           "processor":"A14 Bionic",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"13mp WideAngle+13mp Potrait" ,
+            "battery":"5250 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" Stereo Speakers "
+        },
+        {
+            "id": "3",
+            "brand": "apple",
+            "model": "iphoneXsMax",
+            "available": true,
+            "rating": "4",
+            "actual": 80000,
+            "price": 70000,
+            "image": "Image/iphoneXs.jfif",
+            "color": "Black",
+            "bank": "HDFC 5000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/iphoneXs.jfif",
+                "Image/iphoneXs2.jfif",
+                "Image/iphoneXs3.jfif"
+            ],
+            "processor":"A12 Bionic",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"10mp WideAngle+10mp Potrait" ,
+            "battery":"4800 mAh",
+           
+            "scrren_Size":" 6.5 Inch",
+            "speakers":" Stereo Speakers"
+        },
+        {
+            "id": "4",
+            "brand": "apple",
+            "model": "iphoneSE",
+            "available": true,
+            "rating": "3.5",
+            "actual": 40000,
+            "price": 30000,
+            "image": "Image/iphonese.jfif",
+            "color": "Red",
+            "bank": "ICICI 5000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/iphonese.jfif",
+                "Image/iphonese2.jfif",
+                "Image/iphonese3.jfif"
+            ],
+           "processor":"A12 Bionic",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"10mp WideAngle" ,
+            "battery":"4230 mAh",
+           
+            "scrren_Size":" 5.5 Inch",
+            "speakers":"stereo Dolby"
+        },
+        {
+            "id": "5",
+            "brand": "apple",
+            "model": "iphone11",
+            "available": true,
+            "rating": "4",
+            "actual": 50000,
+            "price": 45000,
+            "image": "Image/iphone11.jfif",
+            "color": "Grey",
+            "bank": "HDFC 5000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/iphone11.jpg",
+                "Image/iphone112.jfif",
+                "Image/iphone113.jfif"
+            ],
+           "processor":"A12 Bionic",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait" ,
+            "battery":"5000 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" stereo Dolby"
+        },
+        {
+            "id": "6",
+            "brand": "samsung",
+            "model": "s21Ultra",
+            "available": true,
+            "rating": "5",
+            "actual": 90000,
+            "price": 80000,
+            "image": "Image/sams21.jfif",
+            "color": "White",
+            "bank": "CITI BANK CREDIT-CARD 10000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/sams21.jfif",
+                "Image/sams212.jfif",
+                "Image/sams213.jfif"
+            ],
+           "processor":"SnapDragon 866G",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait+8mp UltraWide" ,
+            "battery":"5700 mAh",
+           
+            "scrren_Size":" 6.5 Inch",
+            "speakers":" Stereo Speakers "
+        },
+        {
+            "id": "7",
+            "brand": "samsung",
+            "model": "Z_Fold",
+            "available": true,
+            "rating": "5",
+            "actual": 120000,
+            "price": 90000,
+            "image": "Image/samfold.png",
+            "color": "Grey",
+            "bank": "CITI BANK CREDIT-CARD 10000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/samfold.png",
+                "Image/samfold2.jfif",
+                "Image/samfold3.jfif"
+            ],
+           "processor":"SnapDragon 875plus ",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"14mp WideAngle+14mp Potrait+10mp UltraWide" ,
+            "battery":"5900 mAh",
+           
+            "scrren_Size":" 6.2 Inch",
+            "speakers":" quared Core Dolby"
+        },
+        {
+            "id": "8",
+            "brand": "samsung",
+            "model": "Z_Flip",
+            "available": true,
+            "rating": "5",
+            "actual": 110000,
+            "price": 85000,
+            "image": "Image/samflip.jfif",
+            "color": "Grey",
+            "bank": "CITI BANK CREDIT-CARD 10000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/samflip.jfif",
+                "Image/samflip2.jfif",
+                "Image/samflip3.jfif"
+            ],
+           "processor":"SnapDragon 875plus ",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"14mp WideAngle+14mp Potrait" ,
+            "battery":"5700 mAh",
+           
+            "scrren_Size":" 6.1 Inch",
+            "speakers":" quared Core Dolby"
+        },
+        {
+            "id": "9",
+            "brand": "samsung",
+            "model": "Note20",
+            "available": false,
+            "rating": "4",
+            "actual": 70000,
+            "price": 50000,
+            "image": "Image/samnote20.jfif",
+            "color": "White",
+            "bank": "CITI BANK CREDIT-CARD 5000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/samnote20.jfif",
+                "Image/samnote202.jfif",
+                "Image/samnote203.jfif"
+            ],
+           "processor":"SnapDragon 855",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait+8mp UltraWide" ,
+            "battery":"5370 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" Stereo Speakers "
+        },
+        {
+            "id": "10",
+            "brand": "samsung",
+            "model": "S52",
+            "available": true,
+            "rating": "3",
+            "actual": 30000,
+            "price": 25000,
+            "image": "Image/sama52.jfif",
+            "color": "Blue",
+            "bank": "BOA BANK CREDIT-CARD 2000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Not_Supported",
+            "images": [
+                "Image/sama52.jfif",
+                "Image/sama522.jfif",
+                "Image/sama523.jfif"
+            ],
+           "processor":"SnapDragon 865Plus ",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait" ,
+            "battery":"4700 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" Stereo Speakers "
+        },
+        {
+            "id": "11",
+            "brand": "oneplus",
+            "model": "oneplus9Pro",
+            "available": true,
+            "rating": "5",
+            "actual": 90000,
+            "price": 80000,
+            "image": "Image/onep9pro.jfif",
+            "color": "Black",
+            "bank": "HDFC BANK CREDIT-CARD 10000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/onep9pro.jfif",
+                "Image/onep9pro2.jfif",
+                "Image/onep9pro3.jfif"
+            ],
+           "processor":"SnapDragon 865Plus ",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait+8mp UltraWide" ,
+            "battery":"5000 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" Stereo Speakers "
+        },
+        {
+            "id": "12",
+            "brand": "oneplus",
+            "model": "oneplus8",
+            "available": true,
+            "rating": "4",
+            "actual": 50000,
+            "price": 40000,
+            "image": "Image/oneplus8.jfif",
+            "color": "White",
+            "bank": "HDFC BANK CREDIT-CARD 5000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/oneplus8.jfif",
+                "Image/oneplus82.jfif",
+                "Image/oneplus83.jfif"
+            ],
+           "processor":"SnapDragon 865Plus ",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait+8mp UltraWide" ,
+            "battery":"5000 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" Stereo Speakers "
+        },
+        {
+            "id": "13",
+            "brand": "oneplus",
+            "model": "oneplus7",
+            "available": false,
+            "rating": "3.5",
+            "actual": 40000,
+            "price": 35000,
+            "image": "Image/oneplus7.jfif",
+            "color": "Blue",
+            "bank": "HDFC BANK CREDIT-CARD 5000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/oneplus7.jfif",
+                "Image/oneplus72.jfif",
+                "Image/oneplus73.jfif"
+            ],
+           "processor":"SnapDragon 865Plus ",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait+8mp UltraWide" ,
+            "battery":"5000 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" Stereo Speakers "
+        },
+        {
+            "id": "14",
+            "brand": "oneplus",
+            "model": "oneplus8T",
+            "available": false,
+            "rating": "4",
+            "actual": 50000,
+            "price": 40000,
+            "image": "Image/oneplus8t.jfif",
+            "color": "Green",
+            "bank": "HDFC BANK CREDIT-CARD 5000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/oneplus8t.jfif",
+                "Image/oneplus8t2.jfif",
+                "Image/oneplus8t3.jfif"
+            ],
+           "processor":"SnapDragon 865Plus ",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait+8mp UltraWide" ,
+            "battery":"5000 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" Stereo Speakers "
+        },
+        {
+            "id": "15",
+            "brand": "oneplus",
+            "model": "Nord5",
+            "available": true,
+            "rating": "3",
+            "actual": 30000,
+            "price": 24000,
+            "image": "Image/onepnord5.jfif",
+            "color": "Green",
+            "bank": "HDFC BANK CREDIT-CARD 2000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/onepnord5.jfif",
+                "Image/onepnord52.jfif",
+                "Image/onepnord53.jfif"
+            ],
+           "processor":"SnapDragon 865Plus ",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait+8mp UltraWide" ,
+            "battery":"5000 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" Stereo Speakers "
+        },
+        {
+            "id": "16",
+            "brand": "xiaomi",
+            "model": "Mi 11Ultra",
+            "available": true,
+            "rating": "4",
+            "actual": 80000,
+            "price": 70000,
+            "image": "Image/xiao11ultra.jfif",
+            "color": "Black",
+            "bank": "ICICI BANK CREDIT-CARD 5000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/xiao11ultra.jfif",
+                "Image/xiao11ultra2.jfif",
+                "Image/xiao11ultra3.jfif"
+            ],
+           "processor":"SnapDragon 865Plus ",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait+8mp UltraWide" ,
+            "battery":"5000 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" Stereo Speakers "
+        },
+        {
+            "id": "17",
+            "brand": "xiaomi",
+            "model": "Mi 10T",
+            "available": false,
+            "rating": "4",
+            "actual": 60000,
+            "price": 45000,
+            "image": "Image/xiao10.jfif",
+            "color": "Black",
+            "bank": "ICICI BANK CREDIT-CARD 5000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Supported",
+            "images": [
+                "Image/xiao10.jfif",
+                "Image/xiao102.jfif",
+                "Image/xiao103.jfif"
+            ],
+           "processor":"SnapDragon 865Plus ",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait+8mp UltraWide" ,
+            "battery":"5000 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" Stereo Speakers "
+        },
+        {
+            "id": "18",
+            "brand": "xiaomi",
+            "model": "Redmi 10",
+            "available": true,
+            "rating": "4",
+            "actual": 14000,
+            "price": 9000,
+            "image": "Image/xioared10.jfif",
+            "color": "White",
+            "bank": "ICICI BANK CREDIT-CARD 1000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Not_Supported",
+            "images": [
+                "Image/xioared10.jfif",
+                "Image/xioared102.jfif",
+                "Image/xioared103.jfif"
+            ],
+           "processor":"SnapDragon 865Plus ",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait+8mp UltraWide" ,
+            "battery":"5000 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" Stereo Speakers "
+        },
+        {
+            "id": "19",
+            "brand": "xiaomi",
+            "model": "Redmi 11",
+            "available": true,
+            "rating": "3",
+            "actual": 12000,
+            "price": 8000,
+            "image": "Image/xiao11.jfif",
+            "color": "Black",
+            "bank": "ICICI BANK CREDIT-CARD 1000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Not_Supported",
+            "images": [
+                "Image/xiao11.jfif",
+                "Image/xiao112.jfif",
+                "Image/xiao113.jfif"
+            ],
+           "processor":"SnapDragon 865Plus ",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait+8mp UltraWide" ,
+            "battery":"5000 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" Stereo Speakers "
+        },
+        {
+            "id": "20",
+            "brand": "xiaomi",
+            "model": "Redmi k30",
+            "available": true,
+            "rating": "3",
+            "actual": 11000,
+            "price": 7000,
+            "image": "Image/xiaoredk30.jfif",
+            "color": "Black",
+            "bank": "ICICI BANK CREDIT-CARD 1000Rs. Instant Discount",
+            "emi": "No-Cost EMI Available ",
+            "fiveg": "fiveg Not_Supported",
+            "images": [
+                "Image/xiaoredk30.jfif",
+                "Image/xiaoredk302.jfif",
+                "Image/xiaoredk303.jfif"
+            ],
+           "processor":"SnapDragon 865Plus ",
+            "warrenty":"1 year Standard Warrenty",
+            "camera":"12mp WideAngle+12mp Potrait+8mp UltraWide" ,
+            "battery":"5000 mAh",
+           
+            "scrren_Size":" 6.0 Inch",
+            "speakers":" Stereo Speakers "
+        }
+    ]
